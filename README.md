@@ -13,7 +13,7 @@ Challenge programme for Beginner to Intermediate developers and designers who wa
 | DAY | PROJECT |
 |----------|----------|
 | 1 | [JavaScript Drum Kit](https://github.com/marocena26/JS30-challenges-Drum-Kit)|
-
+| 2 | [JavaScript Clock](https://github.com/marocena26/JS30-challenges-clock)|
 
 ## ✨ Credits
 
