@@ -14,3 +14,7 @@ Challenge programme for Beginner to Intermediate developers and designers who wa
 |----------|----------|
 | 1 | [JavaScript Drum Kit](https://github.com/marocena26/JS30-challenges-Drum-Kit)|
 
+
+## ✨ Credits
+
+- [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
