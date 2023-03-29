@@ -16,6 +16,8 @@ Challenge programme for Beginner to Intermediate developers and designers who wa
 | 2 | [JavaScript Clock](https://github.com/marocena26/JS30-challenges-clock)|
 | 3 | [Playing with CSS Variables and JS](https://github.com/marocena26/JS30-challenges-css-variables)|
 | 4 | [Array Cardio Day 1](https://github.com/marocena26/JS30-challenges-array-cardio-1)|
+| 5 | [Flex Panel Gallery](https://github.com/marocena26/JS30-challenges-flex-panel-gallery)|
+
 
 ## ✨ Credits
 
