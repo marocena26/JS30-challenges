@@ -17,8 +17,8 @@ Challenge programme for Beginner to Intermediate developers and designers who wa
 | 3 | [Playing with CSS Variables and JS](https://github.com/marocena26/JS30-challenges-css-variables)|
 | 4 | [Array Cardio Day 1](https://github.com/marocena26/JS30-challenges-array-cardio-1)|
 | 5 | [Flex Panel Gallery](https://github.com/marocena26/JS30-challenges-flex-panel-gallery)|
-
-
+| 6 | [Type Ahead](https://github.com/marocena26/JS30-challenges-type-ahead)|
+| 7 | [Array Cardio Day 2](https://github.com/marocena26/JS30-challenges-array-cardio-2)|
 ## ✨ Credits
 
 - [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
